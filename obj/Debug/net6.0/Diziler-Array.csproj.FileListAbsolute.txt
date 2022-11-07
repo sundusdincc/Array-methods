@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\bin\Debug\net6.0\Diziler-Array.exe
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\bin\Debug\net6.0\Diziler-Array.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\bin\Debug\net6.0\Diziler-Array.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\bin\Debug\net6.0\Diziler-Array.dll
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\bin\Debug\net6.0\Diziler-Array.pdb
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\Diziler-Array.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\Diziler-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\Diziler-Array.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\Diziler-Array.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\Diziler-Array.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\Diziler-Array.dll
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\refint\Diziler-Array.dll
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\Diziler-Array.pdb
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\Diziler-Array.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Diziler-Array\obj\Debug\net6.0\ref\Diziler-Array.dll
